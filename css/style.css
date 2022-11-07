@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: black;
+  font-family: "Permanent Marker", cursive;
+  /* "graphics design is my passion"
+  background-image: linear-gradient(to bottom right, #24283b, #800080);
+  */
+}
+
+/*# sourceMappingURL=style.css.map */
