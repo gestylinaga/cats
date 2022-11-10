@@ -1,2 +1,2 @@
 //cats
-console.log("by: gesty 🏄 ");
+console.log("cats by: gesty 🏄 ");
